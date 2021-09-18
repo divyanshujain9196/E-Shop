@@ -20,6 +20,7 @@
                     ?>
                     <li><a href = "cart.php"><span class = "glyphicon glyphicon-shopping-cart"></span> Cart</a></li>
                     <li><a href = "settings.php"><span class = "glyphicon glyphicon-user"></span> Settings</a></li>
+                    <li><a href="contact_us.php"><span class="glyphicon glyphicon-phone"></span> Contact Us</a></li>
                     <li><a href = "logout_script.php"><span class = "glyphicon glyphicon-log-in"></span> Logout</a></li>
 
                     <?php

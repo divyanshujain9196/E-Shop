@@ -83,7 +83,7 @@ if (isset($_SESSION['email'])) {
         </div>
     </div>
     </div>
-       <br><br>
+       <br><br><br><br><br>
       <?php include "includes/footer.php"; ?>
     </body>
 </html>
